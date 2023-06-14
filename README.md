@@ -20,7 +20,7 @@ When booking a new car should the application ask for:
 
 ![aa](https://github.com/HosamUsef/Car-Booking-Cli-Project/assets/57178026/7b702ceb-bc09-4dd5-9a3d-0b2db40b27cd)
 
-Incorrect Input
+* Incorrect Input
 
 ![b](https://github.com/HosamUsef/Car-Booking-Cli-Project/assets/57178026/583fa67a-8e78-4cfb-bce7-8b31ee3c3684)
 
