@@ -42,11 +42,11 @@ When booking a new car should the application ask for:
 
 * View All Bookings
 
-Correct Input
+* Correct Input
 
 ![aa](https://github.com/HosamUsef/Car-Booking-Cli-Project/assets/57178026/4743e662-2c2b-4c3f-9d8a-08c5fc40820c)
 
-After Booking
+* After Booking
 
 ![aa](https://github.com/HosamUsef/Car-Booking-Cli-Project/assets/57178026/6b5d7294-d7e5-4ba2-b0d6-50f8ff5f0952)
 
@@ -54,7 +54,7 @@ After Booking
 
 ![aa](https://github.com/HosamUsef/Car-Booking-Cli-Project/assets/57178026/b543dea3-26d9-454f-a4d2-a49304908d85)
 
-After Booking
+* After Booking
 
 ![aa](https://github.com/HosamUsef/Car-Booking-Cli-Project/assets/57178026/aae3b0bd-93f5-4b2d-aff8-2a21e79b5e8f)
 
@@ -62,7 +62,7 @@ After Booking
 
 ![aa](https://github.com/HosamUsef/Car-Booking-Cli-Project/assets/57178026/c10af36a-3fb1-460a-b9dc-3691fa80c861)
 
-After Booking
+* After Booking
 
 ![aa](https://github.com/HosamUsef/Car-Booking-Cli-Project/assets/57178026/cfac14c3-9fa8-4559-aa0b-e0a80b9526d8)
 
