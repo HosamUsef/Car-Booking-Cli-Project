@@ -36,7 +36,7 @@ When booking a new car should the application ask for:
 ![ss](https://github.com/HosamUsef/Car-Booking-Cli-Project/assets/57178026/a7c8b4a4-890b-490d-b8b7-e8945068d357)
 
 
-After Booking
+* After Booking
 
 ![aa](https://github.com/HosamUsef/Car-Booking-Cli-Project/assets/57178026/81445940-d269-4114-9bcf-ad70da884785)
 
